@@ -8,7 +8,7 @@ body {
 h1 {
   color:#9D0B0B;
   font-family: 'IM Fell English SC', serif;
-  font-size: 85px;
+  font-size: 90px;
   text-shadow: 2px 2px 5px red;
 }
 
@@ -41,7 +41,7 @@ text-align: justify;
 
 .title {position: absolute;
         margin-top: 150px;
-        margin-left: 400px;
+        margin-left: 500px;
 
 }
 
@@ -69,6 +69,7 @@ text-align: justify;
 
 }
 
+@media(max-device-width:640px){
 
 body {
   background-color:black;
@@ -97,8 +98,6 @@ padding-right: 50px;
 text-align: justify;
 }
 
-
-@media(max-device-width:640px){
 
 .head-container {position: relative;
                 height: 400px;
@@ -138,5 +137,5 @@ text-align: justify;
 .story {margin-left: 100px;
         margin-right: 50px;
         font-size: 30px;
-
+}
 }
