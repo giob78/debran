@@ -112,6 +112,7 @@ text-align: justify;
 
 .title {position: absolute;
         margin: auto;
+        padding-left:50px;
         text-align: center;
 }
 
