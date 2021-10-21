@@ -42,6 +42,7 @@ text-align: justify;
 .title {position: absolute;
         margin-top: 150px;
         margin-left: 400px;
+
 }
 
 
@@ -124,12 +125,12 @@ text-align: justify;
 
 .ruthie {position:sticky;
         padding-top: 100px;
-        padding-left: 130px;
+        padding-left: 60px;
         padding-right: 80px;
         padding-bottom: 80px;
         float: left;
-        shape-outside:ellipse(100px 140px);
-        margin: 60px;
+        shape-outside:ellipse(50px 70px);
+        margin: 30px;
         height: 40%;
         width:  10%;
 }
