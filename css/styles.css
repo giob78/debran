@@ -1,0 +1,65 @@
+body {
+  background-color:black;
+  margin: 0;
+}
+
+h1 {
+  color:#9D0B0B;
+  font-family: 'IM Fell English SC', serif;
+  font-size: 85px;
+  text-shadow: 2px 2px 5px red;
+}
+
+h1:hover {
+  color: white;
+  text-shadow: 2px 2px 5px red;
+}
+
+
+p {color:lightgrey;
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+padding-top: 100px;
+padding-left: 100px;
+padding-right: 50px;
+text-align: justify;
+}
+
+.head-container {position: relative;
+                height: 400px;
+                width: 100%;
+}
+
+.mansion {position: absolute;
+          margin-top: 50px;
+          margin-left: 50px;
+          height: 300px;
+          width:  300px;
+}
+
+.title {position: absolute;
+        margin-top: 150px;
+        margin-left: 400px;
+}
+
+
+.center-container{position: relative;
+                  height: 600px;
+                  width:100%;
+}
+
+.ruthie {position:sticky;
+        padding-top: 100px;
+        padding-left: 130px;
+        padding-right: 80px;
+        padding-bottom: 80px;
+        float: left;
+        shape-outside:ellipse(100px 140px);
+        margin: 60px;
+        height: 40%;
+        width:  10%;
+}
+
+.story {margin-left: 100px;
+        margin-right: 50px;
+}
