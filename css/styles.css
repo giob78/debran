@@ -130,9 +130,9 @@ text-align: justify;
         padding-bottom: 80px;
         float: left;
         shape-outside:ellipse(50px 70px);
-        margin: 30px;
-        height: 60%;
-        width:  30%;
+        margin: 20px;
+        height: 50%;
+        width:  20%;
 }
 
 .story {margin-left: 80px;
