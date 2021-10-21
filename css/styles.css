@@ -123,6 +123,10 @@ text-align: justify;
                   width:100%;
 }
 
+.bottom-container{position: relative;
+                  height: 1000px;
+                  width:100%;
+}
 .ruthie {position:sticky;
         padding-top: 100px;
         padding-left: 80px;
