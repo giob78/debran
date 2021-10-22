@@ -44,10 +44,15 @@ p {color:lightgrey;
 
 
 .center-container{position: relative;
-                  height: 400px;
+                  height: 250px;
                   width:100%;
 }
 
+  .bottom-container{position: relative;
+                  height: 250px;
+                  width:100%;
+}
+  
 .ruthie {position:sticky;
         padding-top: 100px;
         padding-left: 130px;
