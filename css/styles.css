@@ -71,7 +71,7 @@
 
 
 @media(max-device-width:640px){
-body {
+.body {
   background-color:black;
   margin: 0;
 }
