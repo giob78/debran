@@ -56,10 +56,10 @@ p {color:lightgrey;
 .ruthie {position:sticky;
         float: left;
         shape-outside:ellipse(100px 140px);
-        margin-top: 30px;
-        margin-bottom: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
         margin-right: 60px;
-        padding-left: 50px;
+        padding-left: 100px;
         height: 50%;
         width:  10%;
 }
