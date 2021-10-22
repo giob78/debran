@@ -56,8 +56,8 @@ p {color:lightgrey;
 .ruthie {position:sticky;
         float: left;
         shape-outside:ellipse(100px 140px);
-        margin-left: 60px;
-        height: 40%;
+        margin: 30px;
+        height: 50%;
         width:  10%;
 }
 
