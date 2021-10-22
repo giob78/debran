@@ -133,13 +133,10 @@ p {color:lightgrey;
                   width:100%;
 }
 
-.ruthie {position:sticky;
+.ruthie {position: sticky;
         float: left;
         shape-outside:ellipse();
-        margin-top: 40px;
-        margin-bottom: 40px;
-        margin-right: 50px;
-        padding-left: 60px;
+        padding-right: 60px;
         height: 80%;
         width:  10%;
 }
