@@ -1,24 +1,24 @@
 @media only screen and (min-device-width:641px) {
 
-.body {
+body {
   background-color:black;
   margin: 0;
 }
 
-.h1 {
+h1 {
   color:#9D0B0B;
   font-family: 'IM Fell English SC', serif;
   font-size: 90px;
   text-shadow: 2px 2px 5px red;
 }
 
-.h1:hover {
+h1:hover {
   color: white;
   text-shadow: 2px 2px 5px red;
 }
 
 
-.p {color:lightgrey;
+p {color:lightgrey;
   font-family: 'Special Elite', cursive;
   font-size: 20px;
   text-align: justify;
@@ -71,25 +71,25 @@
 }
 
 @media only screen and (max-device-width:640px){
-.body {
+body {
   background-color:black;
   margin: 0;
 }
 
-.h1 {
+h1 {
   color:#9D0B0B;
   font-family: "Playfair Display", "Didot", "Times New Roman", Times, serif;
   font-size: 90px;
   text-shadow: 2px 2px 5px red;
 }
 
-.h1:hover {
+h1:hover {
   color: white;
   text-shadow: 2px 2px 5px red;
 }
 
 
-.p {color:lightgrey;
+p {color:lightgrey;
   font-family: 'Special Elite', cursive;
   font-size: 20px;
   text-align: justify;
