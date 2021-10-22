@@ -81,6 +81,77 @@ body {
 h1 {
   color:#9D0B0B;
   font-family: 'IM Fell English SC', serif;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px red;
+}
+
+h1:hover {
+  color: white;
+  text-shadow: 2px 2px 5px red;
+}
+
+
+p {color:lightgrey;
+  font-family: 'Special Elite', cursive;
+  font-size: 12px;
+  text-align: justify;
+}
+
+.head-container {position: relative;
+                height: 500px;
+                width: 100%;
+}
+
+.mansion {position: absolute;
+          margin-top: 50px;
+          margin-left: 70px;
+          height: 300px;
+          width:  400px;
+}
+
+.title {position: absolute;
+        margin-top: 150px;
+        margin-left: 500px;
+
+}
+
+
+.center-container{position: relative;
+                  height: 250px;
+                  width:100%;
+}
+
+.bottom-container{position: relative;
+                  height: 250px;
+                  width:100%;
+}
+
+.ruthie {position:sticky;
+        float: left;
+        shape-outside:ellipse(100px 140px);
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 90px;
+        padding-left: 100px;
+        height: 80%;
+        width:  10%;
+}
+
+.story {margin-left: 100px;
+        margin-right: 50px;
+}
+
+}
+
+ @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+   body {
+  background-color:black;
+  margin: 0;
+}
+
+h1 {
+  color:#9D0B0B;
+  font-family: 'IM Fell English SC', serif;
   font-size: 70px;
   text-shadow: 2px 2px 5px red;
 }
@@ -140,5 +211,8 @@ p {color:lightgrey;
 .story {margin-left: 100px;
         margin-right: 50px;
 }
+
+}
+
 
 }
