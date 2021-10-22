@@ -1,4 +1,4 @@
-@media only screen and (min-device-width:1200px) {
+@media only screen and (min-device-width:1200px) and (max-device-width: 2500px) and (orientation:landscape)  {
 
 body {
   background-color:black;
