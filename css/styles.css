@@ -69,7 +69,7 @@ p {color:lightgrey;
         margin-right: 50px;
 }
 
-}
+
 
 @media(max-device-width:640px){
 
@@ -121,12 +121,12 @@ text-align: justify;
 
 
 .center-container{position: relative;
-                  height: 600px;
+                  height: 250px;
                   width:100%;
 }
 
 .bottom-container{position: relative;
-                  height: 600px;
+                  height: 250px;
                   width:100%;
 }
 .ruthie {position:sticky;
