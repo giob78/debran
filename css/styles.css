@@ -102,20 +102,16 @@ text-align: justify;
 
 
 .head-container {position: relative;
-                height: 400px;
+                height: 200px;
                 width: 100%;
 }
 
 .mansion {position: absolute;
-          margin: 30px, 100px;
-          padding: 30px, 50px;
           height: 50%;
           width:  50%;
 }
 
 .title {position: absolute;
-        margin: 120px, auto, 30px, 50px;
-        padding: 80px, 60px;
         text-align: center;
 }
 
