@@ -54,13 +54,9 @@ p {color:lightgrey;
 }
   
 .ruthie {position:sticky;
-        padding-top: 100px;
-        padding-left: 130px;
-        padding-right: 80px;
-        padding-bottom: 80px;
         float: left;
         shape-outside:ellipse(100px 140px);
-        margin: 60px;
+        margin-left: 60px;
         height: 40%;
         width:  10%;
 }
