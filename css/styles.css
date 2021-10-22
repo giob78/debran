@@ -105,7 +105,7 @@ text-align: justify;
 }
 
 .mansion {position: absolute;
-          margin: auto;
+          margin: 30px, 100px;
           padding: 30px, 50px;
           height: 50%;
           width:  50%;
