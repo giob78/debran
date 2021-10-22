@@ -133,7 +133,7 @@ p {color:lightgrey;
                   width:100%;
 }
 
-.ruthie {position:sticky;
+.ruthie {position:absolute;
         float: left;
         shape-outside:ellipse(100px 140px);
         margin-top: 40px;
