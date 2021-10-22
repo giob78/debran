@@ -101,8 +101,8 @@ p {color:lightgrey;
 }
 
 .mansion {position: absolute;
-          margin-top: 50px;
-          margin-left: 50px;
+          margin-right: auto;
+          margin-left: auto;
           height: 300px;
           width:  400px;
 }
