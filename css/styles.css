@@ -1,4 +1,4 @@
-@media(min-device-width:641px){
+@media only screen and (min-device-width:641px) {
 
 .body {
   background-color:black;
@@ -70,7 +70,7 @@
 
 }
 
-@media(max-device-width:640px){
+@media only screen abd (max-device-width:640px){
 .body {
   background-color:black;
   margin: 0;
@@ -138,4 +138,5 @@
 .story {margin-left: 100px;
         margin-right: 50px;
 }
+
 }
