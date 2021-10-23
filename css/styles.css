@@ -20,7 +20,7 @@ h1:hover {
 
 p {color:lightgrey;
   font-family: 'Special Elite', cursive;
-  font-size: 24px;
+  font-size: 30px;
   text-align: justify;
 }
 
@@ -58,7 +58,7 @@ p {color:lightgrey;
         shape-outside:ellipse(100px 140px);
         margin-top: 40px;
         margin-bottom: 40px;
-        margin-right: 90px;
+        margin-right: 60px;
         padding-left: 100px;
         height: 80%;
         width:  10%;
@@ -168,7 +168,7 @@ h1:hover {
 
 p {color:lightgrey;
   font-family: 'Special Elite', cursive;
-  font-size: 24px;
+  font-size: 30px;
   text-align: justify;
 }
 
@@ -206,8 +206,8 @@ p {color:lightgrey;
         shape-outside:ellipse(100px 140px);
         margin-top: 40px;
         margin-bottom: 40px;
-        margin-right: 90px;
-        padding-left: 100px;
+        margin-right: 60px;
+        padding-left: 120px;
         height: 80%;
         width:  10%;
 }
