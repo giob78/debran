@@ -82,6 +82,7 @@ p {
  }
 
 .ruthie {position: sticky;
+          padding-left: 30px;
           float: left;
           shape-outside:ellipse(100px 160px);
           margin-top: 40px;
@@ -92,7 +93,7 @@ p {
           width:  auto;
   }
 
-  .story {margin-left: 20px;
+  .story {margin-left: 50px;
           margin-right: 20px;
   }
 
