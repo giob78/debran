@@ -39,7 +39,7 @@ h1:hover {
 p {
   color:lightgrey;
   font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 3vmin;
+  font-size: 4vmin;
   margin-right:20px;
   margin-left:20px;
   margin-top:50px;
@@ -87,7 +87,7 @@ p {
           margin-top: 40px;
           margin-bottom: 40px;
           margin-right: 70px;
-          margin-left: 90px;
+          margin-left: 50px;
           height: auto;
           width:  auto;
 }
