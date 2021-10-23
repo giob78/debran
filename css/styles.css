@@ -37,15 +37,16 @@ h1:hover {
 
 
 p {
-    color:lightgrey;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 2vmax;
-    margin-right:20px;
-    margin-left:20px;
-    margin-top:50px;
-    marign-bottom:50px;
-    text-align: justify;
+  color:lightgrey;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 3vmin;
+  margin-right:20px;
+  margin-left:20px;
+  margin-top:50px;
+  margin-bottom:40px;
+  text-align: justify;
   }
+
 
 .head-container {
     position: relative;
@@ -85,10 +86,10 @@ p {
           shape-outside:ellipse(100px 140px);
           margin-top: 40px;
           margin-bottom: 40px;
-          margin-right: 90px;
+          margin-right: 70px;
           margin-left: 90px;
-          height: 80%;
-          width:  10%;
+          height: auto;
+          width:  auto;
 }
 
 .story {margin-left: 50px;
