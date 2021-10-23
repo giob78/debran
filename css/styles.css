@@ -75,6 +75,14 @@ p {
 
  }
 
+.logo {position: sticky;
+           padding-right: 30px;
+           float: right;
+           shape-outside:circle();
+           margin: 40px;
+           height: auto;
+           width:  auto;
+   }
 .bottom-container{position: relative;
                   padding-top: 50px;
                     height: auto;
