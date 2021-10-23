@@ -81,7 +81,7 @@ p {
                     width:auto;
  }
 
-.ruthie {position: inherit;
+.ruthie {position: sticky;
           float: left;
           shape-outside:ellipse(100px 160px);
           margin-top: 40px;
