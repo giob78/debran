@@ -1,37 +1,97 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>🦇 Il Maniero 🦇</title>
-    <link rel="stylesheet" href="css\styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <div class="head-container">
-      <IMG class="mansion" src="images\manor.png" alt="manor-picture">
-      <h1 class="title">Il Maniero de Bran</h1>
-    </div>
-    <div class="center-container">
-        <p class="story">
-	L'antico maniero de Bran fu abitato dai suoi proprietari fino al 1959. 
-	La dimora venne costruita nei primi dell'800 quando il 
-	barone Nicolae si trasferì in Italia insieme alla sua amata sposa Dragomira. I de Bran erano 
-	un'antica stirpe nobile di origine rumena, i loro possedimenti terrieri si estendevano in diverse parti d'Europa.
-	L'ultimo erede ad abitare il maniero fu Constantin 
-	de Bran, pronipote di Nicolae. Constantin vivena con la moglie Bianca e la loro figlioletta. 
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-   </div>
-   <div class="bottom-container">
-        <img class="ruthie" src="images\ruthie.png" alt="ruthie picture">
-	<p class="story">	
-         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-         when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-         It has survived not only five centuries, but also the leap into electronic typesetting,
-         remaining essentially unchanged. It was popularised in the 1960s with the release of
-         Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
-         software like Aldus PageMaker including versions of Lorem Ipsum</p>
-    </div>
-   </body>
-</html>
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1;}
+
+html {
+  box-sizing: border-box;
+
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+    background-color:black;
+    margin: 0;
+  }
+
+  h1 {
+    color:#9D0B0B;
+    font-family: 'IM Fell English SC', serif;
+    font-size: 90px;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+  }
+
+  h1:hover {
+    color: white;
+    text-shadow: 2px 2px 5px red;
+  }
+
+
+  p {
+    color:lightgrey;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin-right:40px;
+    margin-left:40px;
+    margin-top:50px;
+    marign-bottom:50px;
+    text-align: justify;
+  }
+
+  .head-container {
+    position: relative;
+    height: 500px;
+    width: 100%;
+  }
+
+  .mansion {position: absolute;
+            margin-top: 2%;
+            margin-left: 30%;
+            margin-right: 30%;
+            padding-bottom: 10px;
+            height: 300px;
+            width:  400px;
+  }
+
+  .title {position: absolute;
+          margin-top: 290px;
+          margin-left: 25%;
+          margin-right: 25%;
+}
+
+
+.center-container{position: relative;
+                    height: 250px;
+                    width:100%;
+  }
+
+  .bottom-container{position: relative;
+                    height: 250px;
+                    width:100%;
+  }
+
+  .ruthie {position: sticky;
+          float: left;
+          shape-outside:ellipse(100px 140px);
+          margin-top: 40px;
+          margin-bottom: 40px;
+          margin-right: 50px;
+          padding-left: 70px;
+          height: 80%;
+          width:  10%;
+  }
+
+  .story {margin-left: 100px;
+          margin-right: 50px;
+  }
+
+  }
