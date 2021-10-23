@@ -22,7 +22,7 @@ body {
     margin: 0;
   }
 
-  h1 {
+h1 {
     color:#9D0B0B;
     font-family: 'IM Fell English SC', serif;
     font-size: 90px;
@@ -30,13 +30,13 @@ body {
     text-shadow: 2px 2px 5px red;
   }
 
-  h1:hover {
+h1:hover {
     color: white;
     text-shadow: 2px 2px 5px red;
   }
 
 
-  p {
+p {
     color:lightgrey;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 5vmin;
@@ -53,7 +53,7 @@ body {
     width: 100%;
   }
 
-  .mansion {position: absolute;
+.mansion {position: absolute;
             margin-top: 2%;
             margin-left: 25%;
             margin-right: 25%;
@@ -62,7 +62,7 @@ body {
             width:  400px;
   }
 
-  .title {position: absolute;
+.title {position: absolute;
           margin-top: 290px;
           margin-left: 25%;
           margin-right: 25%;
@@ -73,20 +73,20 @@ body {
                     height: auto;
                     width:auto;
 
-  }
+ }
 
 .bottom-container{position: relative;
                   padding-top: 50px;
                     height: auto;
                     width:auto;
-  }
+ }
 
 .ruthie {position: inherit;
           float: left;
           shape-outside:ellipse(100px 160px);
           margin-top: 40px;
           margin-bottom: 40px;
-          margin-right: 70px;
+          margin-right: 60px;
           margin-left: : 60px;
           height: auto;
           width:  auto;
