@@ -71,13 +71,13 @@ p {
 
 
 .center-container{position: relative;
-                    height: 250px;
+                    height: auto;
                     width:100%;
 }
 
 .bottom-container{position: relative;
                   padding-top:150px;
-                  height: 250px;
+                  height: auto;
                   width:100%;
 }
 
