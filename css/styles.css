@@ -47,39 +47,39 @@ body {
     text-align: justify;
   }
 
-  .head-container {
+.head-container {
     position: relative;
-    height: 600px;
+    height: 650px;
     width: 100%;
   }
 
-  .mansion {position: absolute;
-            margin-top: 2%;
-            margin-left: 25%;
-            margin-right: 25%;
-            padding-bottom: 10px;
-            height: 300px;
-            width:  400px;
-  }
-
-  .title {position: absolute;
-          margin-top: 290px;
+.mansion {position: absolute;
+          margin-top: 2%;
           margin-left: 25%;
           margin-right: 25%;
+          padding-bottom: 10px;
+          height: 300px;
+           width:  400px;
+}
+
+.title {position: absolute;
+        margin-top: 290px;
+        margin-left: 25%;
+        margin-right: 25%;
 }
 
 
 .center-container{position: relative;
                     height: 250px;
                     width:100%;
-  }
+}
 
-  .bottom-container{position: relative;
-                    height: 250px;
-                    width:100%;
-  }
+.bottom-container{position: relative;
+                   height: 250px;
+                   width:100%;
+}
 
-  .ruthie {position: sticky;
+.ruthie {position: sticky;
           float: left;
           shape-outside:ellipse(100px 140px);
           margin-top: 40px;
@@ -88,10 +88,10 @@ body {
           margin-left: 90px;
           height: 80%;
           width:  10%;
-  }
+}
 
-  .story {margin-left: 100px;
+.story {margin-left: 100px;
           margin-right: 50px;
-  }
+}
 
-  }
+}
