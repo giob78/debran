@@ -20,23 +20,23 @@ html {
 body {
     background-color:black;
     margin: 0;
-  }
+}
 
-  h1 {
+h1 {
     color:#9D0B0B;
     font-family: 'IM Fell English SC', serif;
     font-size: 90px;
     text-align: center;
     text-shadow: 2px 2px 5px red;
-  }
+}
 
-  h1:hover {
+h1:hover {
     color: white;
     text-shadow: 2px 2px 5px red;
-  }
+}
 
 
-  p {
+p {
     color:lightgrey;
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 24px;
@@ -90,8 +90,8 @@ body {
           width:  10%;
 }
 
-.story {margin-left: 100px;
-          margin-right: 50px;
+.story {margin-left: 50px;
+        margin-right: 50px;
 }
 
 }
