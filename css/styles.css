@@ -84,8 +84,8 @@ body {
           shape-outside:ellipse(100px 140px);
           margin-top: 40px;
           margin-bottom: 40px;
-          margin-right: 50px;
-          padding-left: 70px;
+          margin-right: 90px;
+          margin-left: 90px;
           height: 80%;
           width:  10%;
   }
