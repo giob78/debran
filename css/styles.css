@@ -76,8 +76,8 @@ p {
  }
 
 .logo {position: sticky;
-           padding-right: 10px;
-           float: right;
+           padding-left: 10px;
+           float: left;
            shape-outside:circle();
            margin: 20px;
            height: 50%;
